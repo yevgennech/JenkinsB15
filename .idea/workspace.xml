@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="494a2591-4692-4968-be9d-c51d95748303" name="Changes" comment="second Commit" />
+    <list default="true" id="494a2591-4692-4968-be9d-c51d95748303" name="Changes" comment="third Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,12 +77,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685565529455</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="third Commit">
+      <created>1685569529986</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1685569529986</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="second Commit" />
+    <MESSAGE value="third Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third Commit" />
   </component>
 </project>
